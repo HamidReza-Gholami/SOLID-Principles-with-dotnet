@@ -1,0 +1,8 @@
+SRP or Single Responsibility Principle is one of the fundamental principles in SOLID. 
+It states that each class should be assigned separate tasks, 
+meaning each class should only have one operation to perform. 
+In this program, I have provided an example of both bad and good design to facilitate better understanding.
+
+
+
+
